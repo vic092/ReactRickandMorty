@@ -11,7 +11,7 @@ function NavPage({ page, setPage }) {
       >
         Page {page + 1}
       </button>
-    </header>
+    </header> 
   );
 }
 
